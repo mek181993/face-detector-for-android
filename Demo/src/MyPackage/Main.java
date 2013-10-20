@@ -1,3 +1,7 @@
+/*
+ * set main
+ */
+
 package MyPackage;
 
 public class Main {
